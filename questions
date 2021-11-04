@@ -1,0 +1,96 @@
+{
+	"questions": {
+		"question1": [
+			{
+				"title": "Kuleste filmen?",
+				"answers": [
+					{
+						"answer": "Die Hard 1"
+					},
+					{
+						"answer": "Die Hard 2"
+					},
+					{
+						"answer": "Die Hard 3"
+					},
+					{
+						"answer": "All of them!",
+						"correct": true
+					}
+				],
+				"helper": {
+					"text": "Yippee-ki-yay, motherfucker!"
+				}
+			}
+		],
+		"question2": [
+			{
+				"title": "Webapplikasjoner er..",
+				"answers": [
+					{
+						"answer": "Awesome",
+						"correct": true
+					},
+					{
+						"answer": "Gørrkjedelig"
+					},
+					{
+						"answer": "Bortkastet"
+					},
+					{
+						"answer": "Kun for nerder"
+					}
+				],
+				"helper": {
+					"text": "Hvorfor ellers tar man faget"
+				}
+			}
+		],
+		"question3": [
+			{
+				"title": "Eksamen kommer til å gå",
+				"answers": [
+					{
+						"answer": "Kjempebra. Dette kan jeg!!"
+					},
+					{
+						"answer": "Har litt nerver.."
+					},
+					{
+						"answer": "Repetere og huske å slappe av dagen i forveien"
+					},
+					{
+						"answer": "ALLE",
+						"correct": true
+					}
+				],
+				"helper": {
+					"text": "You got this!"
+				}
+			}
+		],
+		"question4": [
+			{
+				"title": "Gleder jeg meg til jul",
+				"answers": [
+					{
+						"answer": "Seff!!"
+					},
+					{
+						"answer": "JAAAAA!! Lage snømann!"
+					},
+					{
+						"answer": "Blir kos!"
+					},
+					{
+						"answer": "All of the above!",
+						"correct": true
+					}
+				],
+				"helper": {
+					"text": "HO HO HO!!"
+				}
+			}
+		]
+	}
+}
